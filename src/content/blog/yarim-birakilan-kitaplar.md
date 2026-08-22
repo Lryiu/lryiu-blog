@@ -7,6 +7,8 @@ tags: ["Okuma", "Alışkanlıklar"]
 readingTime: "2 dk okuma"
 ---
 
+![](/images/ihtimallerkutuphanesi.jpg)
+
 Uzun süre yatağımın başucunda duran, üzeri hafiften tozlanmış, ayracı bir süredir yer değiştirmemiş kitabıma her baktığımda hafif bir suçluluk duygusu kaplamıyor değil hani içimi. Tamamlanamayan o kitap, metinle benim aramda kapanmamış bir hesaba dönüşüveriyor. Tutulmamış bir sözün altını çizercesine bakıyor bana… Bitirilmeyi bekliyor…
 
 Olmuştur illa ki size de… 
@@ -32,5 +34,3 @@ Bir kenarda tozlanmaktan kurtarmıştım onu evet ama ne okunmuştu, ne de okuna
 İhtimaller Kütüphanesi… Ön göremediğim bir zaman diliminde, bir ihtimal yollarımızın tekrar kesişeceği kitaplar evreninin adıydı artık benim için. Tüm yarım kalan hesapların kapatıldığı…
 
 İşte şimdi geçebilirdik huzurla sıradaki o kitaba…
-
-![](/images/ihtimallerkutuphanesi.jpg)
