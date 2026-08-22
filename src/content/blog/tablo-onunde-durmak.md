@@ -12,3 +12,8 @@ Bir araştırmaya göre, bir müze ziyaretçisinin bir tabloya ayırdığı orta
 Ben de uzun süre böyleydim. Ta ki bir gün, kalabalığın azaldığı bir öğleden sonra, tek bir tablonun önünde on dakika durana kadar.
 
 O on dakikada tablo değişmedi. Ben değiştim.
+
+![](/images/muze-koridoru.jpg)
+
+*Bir müze koridorunda, kimsenin durmadığı bir köşe.*
+

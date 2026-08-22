@@ -41,6 +41,8 @@ const related = siblings[0];
       </svg>
     </div>
 
+    {post.data.cover && <img class="article-cover" src={post.data.cover} alt="" />}
+
     <article class="article-body serif">
       <Content />
     </article>

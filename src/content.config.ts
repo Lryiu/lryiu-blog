@@ -14,6 +14,8 @@ const blog = defineCollection({
     tags: z.array(z.string()).default([]),
     readingTime: z.string().default('5 dk okuma'),
     draft: z.boolean().default(false),
+    // Kapak görseli — public/images/ klasörüne attığın bir dosyanın adı, opsiyonel.
+    cover: z.string().optional(),
   }),
 });
 
