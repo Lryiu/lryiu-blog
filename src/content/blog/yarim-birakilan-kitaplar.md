@@ -17,7 +17,7 @@ Ama her kitap öyle mi ya? Bazıları kavrar sizi yüreğinizden sımsıkı, ved
 
 Bu seferki ile öyle olmadı ne yazık ki… Buluşamadık aynı sayfalarda. Döndü durdu elimde… Alıp kenara koymak bana bir çeşit entelektüel başarısızlık hissi vereceği için de günlerce sürükledim durdum kendimi de, kitabı da… Alışamadık birbirimize. “Belki” dediğim çok an oldu… “Belki de yeni başlıyoruz…” Zihnime kelepçelenen bu umut, engele dönüşmeye başladı iyiden iyiye. Başlayamadım da  başka bir kitaba, hepten arada kaldım…
 
-Oysa kitap, mutlaka sonuna kadar katlanılması gereken bir sınav mı olmamalıydı? Bir noktada metnin size söyleyeceklerinin tükenmesi, frekansın kopması ya da o anki zihinsel eşiğinizin başka bir yere kayması gayet de kabul edilebilir insani bir hissiyattı. 
+Oysa kitap, mutlaka sonuna kadar katlanılması gereken bir sınav olmamalıydı. Bir noktada metnin size söyleyeceklerinin tükenmesi, frekansın kopması ya da o anki zihinsel eşiğinizin başka bir yere kayması gayet de kabul edilebilir insani bir hissiyattı. 
 
 Sizi okuma eyleminden soğutan, başka bir kitaba başlamanıza mani olan, kitaba da zamanınıza da haksızlık eden bu yapay zorunluluk neyin peşindeydi? Bu yarıda bırakmanın yenilgi olabileceği hissi, kime aitti ki?
 
