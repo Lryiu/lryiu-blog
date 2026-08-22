@@ -1,7 +1,7 @@
 ---
 title: "İhtimaller Kütüphanesi"
 category: "Kitap"
-date: 2026-07-28
+date: 2026-08-22
 excerpt: "Yarım Bıraktığım Kitaplar Hakkında Bir Savunma"
 tags: ["Okuma", "Alışkanlıklar"]
 readingTime: "2 dk okuma"
@@ -32,3 +32,5 @@ Bir kenarda tozlanmaktan kurtarmıştım onu evet ama ne okunmuştu, ne de okuna
 İhtimaller Kütüphanesi… Ön göremediğim bir zaman diliminde, bir ihtimal yollarımızın tekrar kesişeceği kitaplar evreninin adıydı artık benim için. Tüm yarım kalan hesapların kapatıldığı…
 
 İşte şimdi geçebilirdik huzurla o sıradaki kitaba…
+
+![](/images/ihtimallerkutuphanesi.jpg)
