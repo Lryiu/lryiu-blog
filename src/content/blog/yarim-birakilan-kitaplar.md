@@ -31,6 +31,8 @@ Fena bir başlangıç sayılmazdı bu benim için. Aldım kitabı elime, rastgel
 
 Bir kenarda tozlanmaktan kurtarmıştım onu evet ama ne okunmuştu, ne de okunacaklar listemdeydi artık. Belki de bir daha hiç dokunmayacağım o kitap artık ihtimaller kütüphanesinin bir parçasıydı. 
 
+S. Gamze Güçkıran Chartrand Cossette
+
 İhtimaller Kütüphanesi… Ön göremediğim bir zaman diliminde, bir ihtimal yollarımızın tekrar kesişeceği kitaplar evreninin adıydı artık benim için. Tüm yarım kalan hesapların kapatıldığı…
 
 İşte şimdi geçebilirdik huzurla sıradaki o kitaba…
