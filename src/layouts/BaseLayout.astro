@@ -1,0 +1,48 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'Gezi, sanat, kitap ve düşünce üzerine kişisel bir günlük.' } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title} — lryiu</title>
+  <meta name="description" content={description} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell site-header__row">
+      <a href="/" class="wordmark">lry<span>iu</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menüyü aç">☰</button>
+      <nav class="main-nav" id="mainNav">
+        <a href="/#gezi" data-filter-link="Gezi">Gezi</a>
+        <a href="/#sanat" data-filter-link="Sanat">Sanat</a>
+        <a href="/#kitap" data-filter-link="Kitap">Kitap</a>
+        <a href="/#dusunce" data-filter-link="Düşünce">Düşünce</a>
+        <a href="https://lryiu.com" class="bulletin">Bülten</a>
+      </nav>
+    </div>
+  </header>
+
+  <slot />
+
+  <footer class="site-footer shell">
+    <span>© {new Date().getFullYear()} lryiu</span>
+    <a href="https://lryiu.com">Bültene katıl →</a>
+  </footer>
+
+  <script>
+    const navToggle = document.getElementById('navToggle');
+    const mainNav = document.getElementById('mainNav');
+    navToggle?.addEventListener('click', () => mainNav?.classList.toggle('open'));
+  </script>
+</body>
+</html>

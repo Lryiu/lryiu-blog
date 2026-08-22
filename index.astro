@@ -1,0 +1,70 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+// Kategoriler dosyalardan otomatik çıkarılır — yeni bir kategori eklemek
+// için tek yapman gereken bir yazının frontmatter'ına yeni bir isim yazmak.
+const categories = [...new Set(allPosts.map((p) => p.data.category))];
+
+const formatter = new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'short', year: 'numeric' });
+---
+<BaseLayout title="Günlük">
+  <main class="shell">
+
+    <section class="hero">
+      <div class="hero__eyebrow">Kişisel günlük</div>
+      <h1 class="serif">Aklımda kalanları, ağır ağır yazıya döktüğüm yer.</h1>
+      <p>Gezi notları, sanatla ilgili düşünceler, okuduğum kitaplar ve zihnimden geçen her şey — sabit bir başlığa sığdırmadan.</p>
+      <svg class="ink-stroke" viewBox="0 0 180 20" aria-hidden="true">
+        <path d="M4 14 C 40 4, 80 18, 120 8 S 170 4, 176 10" />
+      </svg>
+    </section>
+
+    <div class="filters" id="filters">
+      <button class="chip active" data-filter="all">Tümü</button>
+      {categories.map((c) => (
+        <button class="chip" data-filter={c}>{c}</button>
+      ))}
+    </div>
+
+    <section class="post-list" id="postList">
+      {allPosts.map((post) => (
+        <a class="post-row" href={`/blog/${post.id}`} data-category={post.data.category}>
+          <div>
+            <div class="post-row__eyebrow">{post.data.category}</div>
+            <h2 class="serif">{post.data.title}</h2>
+            <p>{post.data.excerpt}</p>
+          </div>
+          <div class="post-row__meta">
+            <span>{formatter.format(post.data.date)}</span>
+            <span>{post.data.readingTime}</span>
+          </div>
+        </a>
+      ))}
+    </section>
+
+  </main>
+
+  <script>
+    const filters = document.getElementById('filters');
+    const postList = document.getElementById('postList');
+    if (filters && postList) {
+      const chips = filters.querySelectorAll('.chip');
+      const rows = postList.querySelectorAll('.post-row');
+      chips.forEach((chip) => {
+        chip.addEventListener('click', () => {
+          chips.forEach((c) => c.classList.remove('active'));
+          chip.classList.add('active');
+          const target = (chip as HTMLElement).dataset.filter;
+          rows.forEach((row) => {
+            const match = target === 'all' || (row as HTMLElement).dataset.category === target;
+            row.classList.toggle('is-hidden', !match);
+          });
+        });
+      });
+    }
+  </script>
+</BaseLayout>
