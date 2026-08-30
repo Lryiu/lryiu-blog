@@ -50,3 +50,5 @@ Fontaine, ne ilişkileri romantize ediyor ne de yargılıyor. Film bittikten son
 Ahlakın sabit tanımlarına karşılık duyguların akışkanlığına odaklanan Adore, "yasak"ı anlatmıyor aslında; yalnızca saklanmayan insanlık hallerini gösteriyor.
 
 Ve belki de bu yüzden, şaşkınlıkla başlayan izleme deneyimi farkında olmadan bir hayranlığa dönüşüyor.
+
+~ S. Gamze Güçkıran Chartrand Cossette
