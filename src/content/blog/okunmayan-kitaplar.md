@@ -1,5 +1,5 @@
 ---
-title: "Okunmayan Kitaplar"
+title: "Okuma Alışkanlığını Yitirse de, Kitap Almaktan Vazgeçmeyen İnsan, Hangi Umudu Sürdürür?"
 category: "Deneme"
 date: 2026-08-30
 excerpt: "Kitap okumasak da neden almaktan vazgeçemeyiz? Kimlik, umut ve raflarda biriken sessiz vaatler üzerine bir düşünme denemesi."
