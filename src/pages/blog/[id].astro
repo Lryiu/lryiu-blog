@@ -18,7 +18,7 @@ const { Content } = await render(post);
 
 const formatter = new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' });
 
-// "Aynı ruhtan bir yazı daha" için aynı kategoriden başka bir yazı seç
+// "Aynı ruhtan diğer yazılar" için aynı kategoriden başka bir yazı seç
 const siblings = (await getCollection('blog', ({ data }) => !data.draft))
   .filter((p) => p.id !== post.id && p.data.category === post.data.category)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
@@ -64,7 +64,7 @@ const related = siblings[0];
 
     {related && (
       <section class="related">
-        <h3>Aynı ruhtan bir yazı dahaz</h3>
+        <h3>Aynı ruhtan diğer yazılar</h3>
         <a class="post-row" href={`/blog/${related.id}`} style="border-top:1px solid var(--line);">
           <div>
             <div class="post-row__eyebrow">{related.data.category}</div>
