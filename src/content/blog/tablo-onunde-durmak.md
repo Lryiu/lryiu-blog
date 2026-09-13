@@ -1,5 +1,5 @@
 ---
-title: "Gerçek Dehşet Hiçbir Zaman Telif Alamıyor"
+title: "Ed Gein: İlham mı, Lanet mi?"
 category: "Sinema"
 date: 2026-09-13
 excerpt: "Ed Gein'i konu alan yeni dizi üzerinden, dehşetin nasıl bir markaya, bir caninin nasıl bir estetik ürüne dönüştüğü üzerine."
