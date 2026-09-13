@@ -28,3 +28,5 @@ Anlatının duygusal ritmi, melankoli, öfke, kırgınlık ve kabulleniş gibi d
 Final, romantik türün konvansiyonel “mutlu son” kalıbını reddeder. Kimse birleşmez, kimse tamamen kaybetmez. Her karakter kendi içsel barışına ulaşır; kaybedilen aşk, bulunan benlikle yer değiştirir. Bu yönüyle *Dünyayla Benim Aramda*, aşkın değil, kendini tanımanın kurtarıcı gücünün hikâyesi olarak sonlanır. Anlatı, bireyin kendi varlığını yeniden kurma cesaretini, modern ilişkilerdeki en insani deneyim olarak konumlandırır.
 
 Sonuç olarak dizi, Türk televizyon dramalarının alışılmış kalıplarından sıyrılarak, hem toplumsal cinsiyet rolleri hem de iletişim eksenli ilişki temsilleri açısından dikkate değer bir çözümleme alanı açar. *Dünyayla Benim Aramda*, duygusal anlatının ötesine geçerek, kadınlık, güç ve benlik ilişkisini psikolojik bir derinlikle yeniden tanımlar. Bu yönüyle yalnızca bir aşk hikâyesi değil, modern bireyin sessiz iç çatışmalarına dair sinematografik bir gözlem olarak değerlendirilebilir.
+
+~ S. Gamze Güçkıran Chartrand Cossette
