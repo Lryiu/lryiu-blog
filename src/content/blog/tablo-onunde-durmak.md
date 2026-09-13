@@ -7,7 +7,7 @@ tags: ["Dizi", "Şiddet"]
 readingTime: "3 dk okuma"
 ---
 
-![](/images/edgein.jpg)
+![](/images/edgein.webp)
 
 "Seyirci artık Tanrı'nın sürgün edildiği bir dünyada yaşıyor. Tarihte belki de ilk defa ahlaki değerler kaybolduğunda, insanların başka insanlara neler yapabileceğini görüyor. Frankenstein, Operadaki Hayalet... bunlar artık yetersiz kalıyor. Çünkü seyircinin keşfettiği bambaşka bir canavar var. O canavar da biziz." diyor Alfred Hitchcock dizinin ikinci bölümünde.
 
