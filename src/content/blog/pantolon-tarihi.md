@@ -7,7 +7,7 @@ tags: ["Pantolon", "Tarih", "Kültür", "Hafıza"]
 readingTime: "3 dk okuma"
 ---
 
-“Batı özentiliği nedir?”
+*“Batı özentiliği nedir?”*
 
 Gelin bu soruyla başlayalım. Çünkü konu pantolon olunca mevzu şalvar mı pantolon mu değil; hafızası olanla olmayan arasındaki farktır. 
 
@@ -19,7 +19,7 @@ Gelin duyguyla değil de, bulguyla konuşalım ve pantolonun kimliğini soralım
  
 Pantolon ne saraylarda doğdu, ne de moda evlerinde. Pantolon at üstünde doğdu. Bugün bilinen en eski pantolonlar; Orta Asya’da bulunur, atlı göçebe kültüre aittir ve kesimleri modern binici pantolonuna şaşırtıcı derecede yakındır. Yani pantolonun doğum belgesinde şunlar yazar;
 
-Atlı yaşam. Hareket. Savaş. İklim.
+*Atlı yaşam. Hareket. Savaş. İklim.*
 
 Peki Antik Yunan ne giyerdi? Tunik, chiton, himation. Bunu anlamak için kaynak taramaya gerek yok; Antik Yunan heykellerine bakmak yeterlidir. Bacaklar serbest, alt giyim tek parça, pantolon yok.
 
@@ -56,7 +56,7 @@ Konumuz bu değil, ama not düşmeden olmaz. Atatürk, pantolonu icat etmedi. Pa
 Aslen Pantalone, 16. yüzyıl İtalya’sında Commedia dell’Arte tiyatrosunun ünlü bir karakteridir.
 Uzun, dar alt giysi giyen Doğulu tüccar karikatürü. Zamanla karakterin adı, üzerindeki giysinin adı sanıldı.
 
-Pantolon = Pantalone’un giydiği şey. Kıyafet Doğu’nun, isim Batı’nın. Kayıp (yine ve yeniden) bizim. (Ah Osmanlı’nın laleleri… Ne de güzeldirler Hollanda’nın çayırlarında…)
+Pantolon = Pantalone’un giydiği şey. Kıyafet Doğu’nun, isim Batı’nın. Kayıp (yine ve yeniden) bizim. *(Ah Osmanlı’nın laleleri… Ne de güzeldirler Hollanda’nın çayırlarında…)*
 
 Peki Asıl Batı Özentiliği Nedir? Şalvarı kutsal eşya yapmak. Pantolonu ihanet belgesi saymak. Tarihi bilmeden slogan üretmek. Ve bence en acıklısı, Batı’nın Doğu’yu küçümseme dilini, kendimize karşı kullanmak.
 
