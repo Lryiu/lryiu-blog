@@ -7,6 +7,8 @@ tags: ["Dizi", "Şiddet"]
 readingTime: "3 dk okuma"
 ---
 
+![](/images/edgein.jpg)
+
 "Seyirci artık Tanrı'nın sürgün edildiği bir dünyada yaşıyor. Tarihte belki de ilk defa ahlaki değerler kaybolduğunda, insanların başka insanlara neler yapabileceğini görüyor. Frankenstein, Operadaki Hayalet... bunlar artık yetersiz kalıyor. Çünkü seyircinin keşfettiği bambaşka bir canavar var. O canavar da biziz." diyor Alfred Hitchcock dizinin ikinci bölümünde.
 
 Bir yemek masasında iki erkek, bir ölü sevicinin hikâyesi üzerinden sinemada "yeni bir şeyin" kurgusunu planlamaktadırlar. Bu sohbetten rahatsız olansa tek bir kişidir, bir kadın! Bu tatsız sohbete dahil olmak istemediğini kibarca ifade edip masayı terk eder. İşte ahlakın terk ettiği o masada; dehşet, karanlık bir duygudan yüksek çözünürlüklü, iyi ışıklandırılmış bir ürüne evrimleşmeye başlar.
