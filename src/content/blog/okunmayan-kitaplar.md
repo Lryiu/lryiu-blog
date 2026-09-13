@@ -1,6 +1,6 @@
 ---
 title: "Okuma Alışkanlığını Yitirse de, Kitap Almaktan Vazgeçmeyen İnsan, Hangi Umudu Sürdürür?"
-category: "Deneme"
+category: "Kitap"
 date: 2025-11-07
 excerpt: "Kitap okumasak da neden almaktan vazgeçemeyiz? Kimlik, umut ve raflarda biriken sessiz vaatler üzerine bir düşünme denemesi."
 tags: ["Kitap", "Kimlik"]
