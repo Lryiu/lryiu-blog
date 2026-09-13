@@ -9,7 +9,8 @@ readingTime: "3 dk okuma"
 
 ![](/images/edgein.webp)
 
-"Seyirci artık Tanrı'nın sürgün edildiği bir dünyada yaşıyor. Tarihte belki de ilk defa ahlaki değerler kaybolduğunda, insanların başka insanlara neler yapabileceğini görüyor. Frankenstein, Operadaki Hayalet... bunlar artık yetersiz kalıyor. Çünkü seyircinin keşfettiği bambaşka bir canavar var. O canavar da biziz." diyor Alfred Hitchcock dizinin ikinci bölümünde.
+> "Seyirci artık Tanrı'nın sürgün edildiği bir dünyada yaşıyor. Tarihte belki de ilk defa ahlaki değerler kaybolduğunda, insanların başka insanlara neler yapabileceğini görüyor. Frankenstein, Operadaki Hayalet... bunlar artık yetersiz kalıyor. Çünkü seyircinin keşfettiği bambaşka bir canavar var. O canavar da biziz."
+diyor Alfred Hitchcock dizinin ikinci bölümünde.
 
 Bir yemek masasında iki erkek, bir ölü sevicinin hikâyesi üzerinden sinemada "yeni bir şeyin" kurgusunu planlamaktadırlar. Bu sohbetten rahatsız olansa tek bir kişidir, bir kadın! Bu tatsız sohbete dahil olmak istemediğini kibarca ifade edip masayı terk eder. İşte ahlakın terk ettiği o masada; dehşet, karanlık bir duygudan yüksek çözünürlüklü, iyi ışıklandırılmış bir ürüne evrimleşmeye başlar.
 
@@ -31,7 +32,7 @@ Hepsi de aynı patolojik mirasın uzantısı ve dönemin medyası tarafından pa
 Based on a true story!
 
 Ama kim, gerçekten de asıl hikâyeyle ilgileniyordu ki? Çünkü önemli olan hikâye değildi, bir marka yaratmaktı. Dizinin sonunda gözümüze sokulan o afişte yazdığı gibi:
-"Ed Gein — Nobody Will Ever Forget."
+> "Ed Gein — Nobody Will Ever Forget."
 
 Uyarı mı bu, yoksa reklam mı? Hafıza mı, yoksa slogan mı? Artık kimse ayıramıyor. Çünkü "unutulmayacak" cümlesi, bir yas değil, bir vaat. Evet, unutulmayacak… Ama burada unutulmayacak olan kurbanlar değil. Çünkü bu hatırlama bir vicdana değil, ucuz bir pazarlama stratejisine hizmet ediyor.
 
@@ -51,7 +52,7 @@ Kötülük analiz edildikçe anlamını, anlatıldıkça da sınırını kaybedi
 Korkunun yerini merak, merakın yerini hayranlık alıyor. Ve biz artık dehşeti hissetmiyor, yalnızca onun iyi kurgulanmış hâline hayran kalıyoruz. Ya da basitçe yeriyoruz. Ama yaşanılanları değil, temsillerini.
 
 Yazıyı, Ed Gein'in, Hitchcock'un ölümün üzerine hemşireye söylediği o cümleyle sonlandırmak isterim:
-"Biliyor musun Rose, ben o filmden hiç para kazanamadım."
+> "Biliyor musun Rose, ben o filmden hiç para kazanamadım."
 
 Korkunun estetiği kime ait, emin değilim. Ama bir şey çok açık:
 Gerçek dehşet, hiçbir zaman telif alamıyor!
