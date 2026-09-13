@@ -1,6 +1,6 @@
 ---
 title: "Ed Gein: İlham mı, Lanet mi?"
-category: "Sinema"
+category: "Dizi"
 date: 2025-10-13
 excerpt: "Ed Gein'i konu alan yeni dizi üzerinden, dehşetin nasıl bir markaya, bir caninin nasıl bir estetik ürüne dönüştüğü üzerine."
 tags: ["Dizi", "Şiddet"]
