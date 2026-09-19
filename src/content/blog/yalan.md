@@ -22,3 +22,5 @@ Yalan, bu anlamda yalnızca bir savunma değil, bir sahne ışığıdır. Kim ol
 Yine de yalan, ne kadar tatlı olursa olsun, içinde bir burukluk taşır. Çünkü insan, bir noktada kendi masalının da farkına varır. Masalın sıcaklığı sürse de, gerçeğin sessizliği hep arkada bekler. İşte o an, insanın kendisiyle yüzleştiği en çıplak andır.
 
 Sonuç olarak, yalan bana göre gerçeği reddetmek değil, onunla başa çıkmanın bir yoludur. Nasıl ki bazı gerçekler sessiz kalınmadan yaşanamazsa, bazıları da söylenmeden taşınamaz. İşte bu yüzdendir ki, *“her yalanın içinde az da olsa bir doğruluk payı bulunur”* insanın kendine inanabilmek için anlattığı en zarif masaldır.
+
+~ S. Gamze Güçkıran Chartrand Cossette
