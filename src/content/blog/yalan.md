@@ -4,7 +4,7 @@ category: "Deneme"
 date: 2025-10-08
 excerpt: "Gerçeğin acımasız ve keskin yüzünden kaçışın, küçük pembe yalanlarla kurulan kişisel mitolojilerin ve insanın kendi masalıyla yüzleşmesinin sessiz hikâyesi."
 tags: ["gerçek", "yalan", "estetik", "psikoloji", "mitoloji"]
-readingTime: "3 dk okuma"
+readingTime: "2 dk okuma"
 ---
 
 İnsan yalan söylerken her zaman kötücül bir niyet taşımaz. Bazen yalan, gerçeğin ağırlığından kaçmak için bir sığınaktır. Gerçek, olduğu haliyle fazlasıyla çıplak ve keskindir; kimi zaman bir aynaya değil de, bir bıçağa benzer. Bu yüzden de insan, onu törpülemeye, yumuşatmaya çalışır. İşte yalanın cazibesi de buradadır: gerçeği biraz daha dayanılabilir, biraz daha yaşanılabilir kılmak.
@@ -21,4 +21,4 @@ Yalan, bu anlamda yalnızca bir savunma değil, bir sahne ışığıdır. Kim ol
 
 Yine de yalan, ne kadar tatlı olursa olsun, içinde bir burukluk taşır. Çünkü insan, bir noktada kendi masalının da farkına varır. Masalın sıcaklığı sürse de, gerçeğin sessizliği hep arkada bekler. İşte o an, insanın kendisiyle yüzleştiği en çıplak andır.
 
-Sonuç olarak, yalan bana göre gerçeği reddetmek değil, onunla başa çıkmanın bir yoludur. Nasıl ki bazı gerçekler sessiz kalınmadan yaşanamazsa, bazıları da söylenmeden taşınamaz. İşte bu yüzdendir ki, > *“her yalanın içinde az da olsa bir doğruluk payı bulunur”* — insanın kendine inanabilmek için anlattığı en zarif masaldır.
+Sonuç olarak, yalan bana göre gerçeği reddetmek değil, onunla başa çıkmanın bir yoludur. Nasıl ki bazı gerçekler sessiz kalınmadan yaşanamazsa, bazıları da söylenmeden taşınamaz. İşte bu yüzdendir ki, *“her yalanın içinde az da olsa bir doğruluk payı bulunur”* insanın kendine inanabilmek için anlattığı en zarif masaldır.
