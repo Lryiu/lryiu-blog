@@ -37,8 +37,6 @@ Yanlış ikilem. Çünkü şalvar, pantolonun bir kesimidir. Pantolon bir katego
 
 Ama aynı Osmanlı’da; askerin çakşırı, denizcinin pantolonu vardı. Sarayda bile farklı alt giyim kesimleri mevcuttu. Yani mesele “biz şalvarlıydık, onlar pantolonluydu” meselesi değildir. Mesele, bizim kültürümüzde alt giyimin her daim var olmasıdır. Batı’daki gibi etek–tunik–toga–tayt karışımı değil.
 
-## Toplumsal Amnezi
- 
 Pantolonu Doğu’dan alan Batı, 19. yüzyılda ilk şunu yaptı. Doğu’yu “geri” ilan etti! Mecburiyetten kanıksadığını “medeniyet” diye paketledi ve Doğu’nun tarihini Doğu’ya eksik anlattı. Ve biz bugün, kendi coğrafyamızda doğmuş bir giysiyi “Batı icadı” sanacak noktaya geldik.
 
 Bu bir moda yanılgısı değil, bir hafıza kaybı. Daha kötüsü ise bu kayba, “şalvar–pantolon” gibi sığ tartışmalarla bizzat katkı sağlıyor olmamız.
