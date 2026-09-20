@@ -31,4 +31,6 @@ Bu nedenle mesele teknolojinin kurtarıcı mı yoksa yıkıcı mı olduğu deği
 
 Asıl kırılma burada yaşanır. 
 
-Çünkü bir düzen korku üzerinden değil, alışkanlık üzerinden kalıcılaşır. Ve insan, en çok alıştığı şeyle çöker.
+Çünkü bir düzen korku üzerinden değil, alışkanlık üzerinden kalıcılaşır ve insan, en çok alıştığı şeyle çöker.
+
+~ S. Gamze Güçkıran Chartrand Cossette
