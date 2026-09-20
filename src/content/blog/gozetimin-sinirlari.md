@@ -23,12 +23,12 @@ Bu yakınlık stratejisinin markalar için cazibesi yüksek: Satış algısını
 
 Zuboff’un ve güncel saha çalışmalarının "Gözetim Kapitalizmi" bağlamında ele aldığı bu dinamik, devasa bir güç asimetrisi barındırıyor. Şirketler davranışlarımızı tahmin etmek için devasa veri setleri kullanırken, tüketici bu algoritmanın tam olarak nasıl işlediğine dair şeffaflıktan uzaktır. 
 
-Buradaki en ince çizgi, "ikna" ile "manipülasyon" arasındadır. Hiper-kişiselleştirme, tüketicinin özerkliğini sınırlayabilir. İnsan, yaptığı seçimin kendi özgür iradesi mi yoksa algoritmik bir *dürtme (nudging)* stratejisi mi olduğunu ayırt edemez hale gelir. Etik dışı veri kullanımı kısa vadede yüksek kazanç sağlasa bile, uzun vadede güvenin kalıcı olarak zedelenmesine yol açar.
+Buradaki ince çizgi, "ikna" ile "manipülasyon" arasındadır. Hiper-kişiselleştirme, tüketicinin özerkliğini sınırlayabilir. İnsan, yaptığı seçimin kendi özgür iradesi mi yoksa algoritmik bir *dürtme (nudging)* stratejisi mi olduğunu ayırt edemez hale gelir. Etik dışı veri kullanımı kısa vadede yüksek kazanç sağlasa bile, uzun vadede güvenin kalıcı olarak zedelenmesine yol açar.
 
 > **"Markanın kullanıcıyla kurduğu bağ gözetim gibi değil, empati gibi hissettirilmelidir."**
 
 Nihayetinde mesele, teknolojiye körü körüne bağlanmak ya da tamamen dışlamak değil; "kullanıcı özerkliği" ile "ticari verimlirlik" arasındaki o hassas dengeyi koruyabilmektir. Şeffaflık, yani verinin neden ve nasıl kullanıldığını açıkça ortaya koymak, o ürpertici etkiyi kırmanın tek yoludur. 
 
-Asıl sormamız gereken soru şudur: Kurduğumuz bu bağ, insanı özgürleştiren bir rehber mi, yoksa yalnızca duymak istediklerini fısıldayan soğuk bir algoritma mı?
+Kurduğumuz bu bağ, insanı özgürleştiren bir rehber midir, yoksa yalnızca duymak istediklerini söyleyen bir algoritma mı?
 
 ~ S. Gamze Güçkıran Chartrand Cossette
