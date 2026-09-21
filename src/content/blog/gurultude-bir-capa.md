@@ -23,6 +23,4 @@ Bazen hayat çok ağır gelir. Ama unutma, gökyüzüne bakmak ücretsiz, gün b
 
 Bu eski cümleler, fırtınayı dindirmez. Ama fırtınanın ortasında teknenin devrilmemesi için bir çapa işlevi görürler. Ve inan, bazen sadece o çapa bile yeterlidir.
 
-> *"Engeller, sistemdeki bir hata değil, hayatın sistemin ta kendisi."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
