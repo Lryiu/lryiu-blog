@@ -1,5 +1,5 @@
 ---
-title: "Taşlardan Klavyelere: İnsanın En Eski Avlanma Biçimi 'Linç'"
+title: "İnsanın En Eski Avlanma Biçimi 'Linç'"
 category: "Deneme"
 date: 2026-06-14
 excerpt: "Linç, dijital bir öfke patlamasından çok daha derin, çok daha sistematik bir canavar. Taşların yerini klavyeler almış olabilir; ama mekanizma hiç değişmedi."
