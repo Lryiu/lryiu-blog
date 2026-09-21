@@ -27,7 +27,7 @@ Bu noktada belirleyici olan, krizin varlığı değil; ona verilen alışılmı�
 
 Bu nedenle mesele teknolojinin kurtarıcı mı yoksa yıkıcı mı olduğu değildir. Bu ikilik artık açıklayıcı olmaktan uzaktır. Asıl mesele, sürekli kriz hâlinin ne zaman doğal kabul edildiğidir.
 
-> **"Çünkü modern distopya, Orwell'in tarif ettiği gibi yalnızca korkuyla değil; Huxley'nin öngördüğü gibi alışkanlıkla işler."**
+> *"Çünkü modern distopya, Orwell'in tarif ettiği gibi yalnızca korkuyla değil; Huxley'nin öngördüğü gibi alışkanlıkla işler."*
 
 Asıl kırılma burada yaşanır. 
 
