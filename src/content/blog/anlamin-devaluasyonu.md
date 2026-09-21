@@ -1,5 +1,5 @@
 ---
-title: "Anlamın Devalüasyonu: Hazır Kimlik Menüleri Çağında Sahicilik"
+title: "Anlamın Devalüasyonu: Hazır Kimlik Çağında Sahicilik"
 category: "Deneme"
 date: 2026-05-19
 excerpt: "Hiç bu kadar çok kimlik üretilmedi, hiç bu kadar çok otantik olmaya dair araç piyasaya sürülmedi. Peki neden hiçbir kimlik bu kadar hafif hissettirmedi? Para politikasından ödünç alınan bir metaforla anlamın nasıl değer kaybettiğine dair bir deneme."
