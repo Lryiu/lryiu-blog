@@ -25,7 +25,7 @@ Zuboff’un ve güncel saha çalışmalarının "Gözetim Kapitalizmi" bağlamı
 
 Buradaki ince çizgi, "ikna" ile "manipülasyon" arasındadır. Hiper-kişiselleştirme, tüketicinin özerkliğini sınırlayabilir. İnsan, yaptığı seçimin kendi özgür iradesi mi yoksa algoritmik bir *dürtme (nudging)* stratejisi mi olduğunu ayırt edemez hale gelir. Etik dışı veri kullanımı kısa vadede yüksek kazanç sağlasa bile, uzun vadede güvenin kalıcı olarak zedelenmesine yol açar.
 
-> **"Markanın kullanıcıyla kurduğu bağ gözetim gibi değil, empati gibi hissettirilmelidir."**
+> *"Markanın kullanıcıyla kurduğu bağ gözetim gibi değil, empati gibi hissettirilmelidir."*
 
 Nihayetinde mesele, teknolojiye körü körüne bağlanmak ya da tamamen dışlamak değil; "kullanıcı özerkliği" ile "ticari verimlirlik" arasındaki o hassas dengeyi koruyabilmektir. Şeffaflık, yani verinin neden ve nasıl kullanıldığını açıkça ortaya koymak, o ürpertici etkiyi kırmanın tek yoludur. 
 
