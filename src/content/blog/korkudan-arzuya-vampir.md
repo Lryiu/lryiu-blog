@@ -1,6 +1,6 @@
 ---
 title: "Vampir Ne Ara Sevişilecek Adama Evrildi?"
-category: "Kültür"
+category: "Kültür ve Tarih"
 date: 2026-03-08
 excerpt: "Bir zamanlar vampir, kapının eşiğinde durduğunda içeri alınmaması gereken şeydi. Şimdi davet edilmeyi bekleyen biri gibi. Aradaki fark estetik değil; neyi tehdit, neyi cazibe saydığımızın değişmesi."
 tags: ["Kültür", "Sinema", "Vampir"]
