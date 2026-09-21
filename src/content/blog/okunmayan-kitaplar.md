@@ -19,8 +19,6 @@ Elbette çağın hız kültürü bu durumu pekiştirir. Dikkatin parçalandığ�
 
 Yine de okunmayan kitaplar suçluluk değil, potansiyel taşır. Onlar, henüz yaşanmamış içsel dönüşümlerin sembolleridir. Her kitap, kişinin kendine duyduğu inancın somut halidir. Bir gün yeniden başlayabileceğine, yeniden derinleşebileceğine dair küçük bir hatırlatma.
 
-Belki de bu yüzden insan, okumadığı halde kitap almaktan vazgeçemez. Çünkü o kitaplar, sadece bilgiyle değil, umutla doludur. Kapağı açılmamış her kitap, sessizce şunu söyler: 
-
-> **"Hala mümkünsün."**
+Belki de bu yüzden insan, okumadığı halde kitap almaktan vazgeçemez. Çünkü o kitaplar, sadece bilgiyle değil, umutla doludur. Kapağı açılmamış her kitap, sessizce şunu söyler: *"Hala mümkünsün."*
 
 ~ S. Gamze Güçkıran Chartrand Cossette
