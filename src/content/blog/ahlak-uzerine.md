@@ -27,7 +27,7 @@ Bu yüzden güçlü kurumlara sahip toplumlarda din, gündelik ahlâkın denetle
 
 Bu yüzden mesele ne dinin yüceltilmesi ne de dışlanmasıdır. Asıl mesele, ahlâkın hangi koşullarda hangi araçlarla taşındığıdır. Ahlâk boşluk sevmez; bir yerden tutunur. Adaletle, hukukla, kurumlarla ya da dinle. Hangisi eksikse, diğeri yükü omuzlar.
 
-> **"Çünkü bir toplum dinden uzaklaştığında değil; adaletten uzaklaştığında çürür."**
+> *"Çünkü bir toplum dinden uzaklaştığında değil; adaletten uzaklaştığında çürür."*
 
 Din bu çürümeyi bazen örter, bazen geciktirir. Ama asıl belirleyici olan, ahlâkın tutunabileceği başka zeminlerin var olup olmadığıdır. Ahlâkın ayakta kaldığı toplumlarda din bir anlam sorusudur; çöktüğü yerlerde ise bir buyruk.
 
