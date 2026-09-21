@@ -1,5 +1,5 @@
 ---
-title: "Dünyayla Benim Aramda: Modern İlişkiler, Güç Dengeleri ve Benlik İnşası Üzerine Bir Çözümleme"
+title: "Dünyayla Benim Aramda: Benlik İnşası Üzerine"
 category: "Dizi"
 date: 2025-11-30
 excerpt: "Disney+ yapımı Dünyayla Benim Aramda, yüzeyde bir aşk üçgeni anlatısı gibi görünse de, özünde modern ilişkilerdeki güç dengelerini, iletişimsizlik biçimlerini ve bireysel kimlik arayışını konu edinen çok katmanlı bir metin olarak okunabilir."
