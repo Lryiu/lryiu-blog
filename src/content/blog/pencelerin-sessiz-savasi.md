@@ -21,6 +21,4 @@ Mesele sadece estetik değil belki de. Mesele, hâlâ her şeye dokunmak zorunda
 
 En çok *"dokunmaya"* ihtiyaç duyduğumuz çağda, parmak uçlarımızı işlevsiz kılan bir güzellik anlayışına bu kadar sıkı tutunmamız, sence de garip değil mi?
 
-> *"Pençelerimizle dünyayı kavramaya değil, onunla aramıza şık bir mesafe koymaya çalışıyoruz."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
