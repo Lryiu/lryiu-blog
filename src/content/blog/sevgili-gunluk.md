@@ -19,6 +19,4 @@ Edebiyatta da bu geçişin izlerini görebiliyoruz. İngiliz edebiyatında, 19. 
 
 Özetle; yalnızlık hissi, mektup yazma alışkanlığı ve popüler kültürün gücü birleşerek, o cansız defteri hayatımızın en sadık ve *"sevgili"* dinleyicisi yaptı. Belki de bu yüzden hâlâ bazılarımız, elimize bir defter aldığımızda önce o iki kelimeyi yazıyoruz; çünkü karşımızdaki sayfanın bizi yargılamayacağını biliyoruz, tıpkı yüzyıllar önce mektup yazanların bildiği gibi.
 
-> *"Günlük, kişinin kendisine gönderdiği ama hiç postalamadığı bir mektup haline geldi."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
