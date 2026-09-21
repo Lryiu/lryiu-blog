@@ -11,9 +11,9 @@ Kendimize ne kadar bağımsız, modern ve rasyonel olduğumuzu söylersek söyle
 
 Bu varoluşsal teslimiyet, yalnızca şairlerin ilham aldığı romantik bir metafor değildir. Arka planda evrimsel biyolojinin, nörokimyasal fırtınaların, çocukluk yaralarımızın ve varoluşsal yalnızlığımızın kesiştiği, son derece organize bir biyopsikososyal sistem işler. Teslimiyetin anatomisi sandığımızdan karmaşık anlayacağınız.
 
-Aşkın ilk kıvılcımı tamamen rastgele ve anlık görünür. "İlk görüşte aşık oldum" deriz. Oysa o ilk saniyede, bilincimizin ruhu bile duymadan çalışan iki devasa süzgeç çoktan işe koyulmuştur: Biri genlerimizde, diğeri ise çocukluk anılarımızda saklıdır.
+Aşkın ilk kıvılcımı tamamen rastgele ve anlık görünür. *"İlk görüşte aşık oldum"* deriz. Oysa o ilk saniyede, bilincimizin ruhu bile duymadan çalışan iki devasa süzgeç çoktan işe koyulmuştur: Biri genlerimizde, diğeri ise çocukluk anılarımızda saklıdır.
 
-Biyolojik düzeyde aşk, burnumuzun ucunda başlar. Vücudumuz, bağışıklık sistemimizin kodlarını taşıyan Majör Histokompatibilite Kompleksi (MHC) adı verilen genler tarafından yönetilen benzersiz bir koku salgılar. Evrimsel süreç, bize kendi bağışıklık sistemimizden tamamen farklı bireylerin kokularını çekici bulma eğilimi aşılamıştır. Bu genetik zıtlık, doğacak çocukların bağışıklık sisteminin daha güçlü olmasını garanti altına alır. 
+Biyolojik düzeyde aşk, burnumuzun ucunda başlar. Vücudumuz, bağışıklık sistemimizin kodlarını taşıyan Majör Histokompatibilite Kompleksi (MHC) adı verilen genler tarafından yönetilen benzersiz bir koku salgılar. Evrimsel süreç, bize kendi bağışıklık sistemimizden tamamen farklı bireylerin kokularını çekici bulma eğilimi aşılamıştır. Bu genetik zıtlık, doğacak çocukların bağışıklık sisteminin daha güçlü olmasını garanti altına alır.
 
 Biyolojimiz genetik olarak en uzak olanı ararken, psikolojimiz ise tanıdık olanın peşine düşer. Harville Hendrix'in Imago İlişki Teorisi'ne göre, bilinçdışımız çocukluk dönemindeki birincil bakım verenlerimizin hem olumlu hem de olumsuz özelliklerini harmanlayarak zihnimize bir Imago kazır. Aşık olduğumuzda, aslında karşı tarafta kendi çocukluk yaralarımızı sarabileceğine inandığımız bu yansımayı görürüz.
 
@@ -35,11 +35,11 @@ James Coan'ın Sosyal Temel Çizgi Teorisi'ne göre, insan beyninin varsayılan 
 
 Stephen Porges'in Polivagal Teorisi ise partnerimizin sesine ve nefesine neden muhtaç olduğumuzu gösterir. Partnerimizin melodik, yumuşak ve iniş çıkışlı ses tonu (prosodi), kulaklarımız aracılığıyla beyinsapındaki nükleus ambigusu ve pre-Bötzinger kompleksini uyarır. Bu uyarı, Solunumsal Sinüs Aritmisi aracılığıyla kalp hızımızı yavaşlatır, nefesimizi düzene sokar ve otonom sinir sistemimizi savaş veya kaç modundan çıkarıp güvende hissetme moduna sokar.
 
-İnsanın bir başkasında kaybolma arzusu, felsefe salonlarında da derin yankılar bulmuştur. Platon'un Şölen diyaloğunda Aristophanes'in aktardığı Birleşme Miti'ne göre insanlar başlangıçta bütünsel varlıklardı; Zeus tarafından ikiye bölündükten sonra herkes kayıp diğer yarısını aramaya başladı. "Sen beni tamamlıyorsun" felsefesi, bu mitolojik bütünleşme arayışının bir yansımasıdır.
+İnsanın bir başkasında kaybolma arzusu, felsefe salonlarında da derin yankılar bulmuştur. Platon'un Şölen diyaloğunda Aristophanes'in aktardığı Birleşme Miti'ne göre insanlar başlangıçta bütünsel varlıklardı; Zeus tarafından ikiye bölündükten sonra herkes kayıp diğer yarısını aramaya başladı. *"Sen beni tamamlıyorsun"* felsefesi, bu mitolojik bütünleşme arayışının bir yansımasıdır.
 
 Buna karşın Jean-Paul Sartre, Varlık ve Hiçlik'te romantik aşkı trajik bir çatışma olarak ele alır. Sartre'a göre aşık, Öteki'nin özgürlüğünü ele geçirerek kendi varoluşuna değer kazandırmaya çalışır; ancak bu durum ya karşı tarafı nesneleştirerek sadizme ya da kişinin kendisini teslim etmesiyle mazoşizme yol açar. Aşk, bu paradoks nedeniyle başarısızlığa mahkum bir salınımdır.
 
-> **"Kendimizi kaybetmekten korksak da, o teslimiyetin getirdiği derin huzur için her defasında aynı uçurumun kenarına yürümeye değer."**
+> *"Kendimizi kaybetmekten korksak da, o teslimiyetin getirdiği derin huzur için her defasında aynı uçurumun kenarına yürümeye değer."*
 
 Nihayetinde insan, karşısındaki insanda kendi biyolojik sınırlarını aşmanın, yalnızlık anksiyetesini dindirmenin ve iki farklı sinir sistemini tek bir koruyucu kalkan altında birleştirmenin o büyüleyici güvenliğini sevmektedir.
 
