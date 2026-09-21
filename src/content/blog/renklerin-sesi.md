@@ -31,6 +31,4 @@ O zaman şu soruyu bir kez daha sorabiliriz: Lüks markaların on yıllarca ayn�
 
 Bir dahaki sefere mavi ışık altında gevşerken ya da turuncu bir kutuyu açarken, kendine sor: bu histen hangi kısmı bana ait, hangi kısmı bana satıldı? Cevap muhtemelen ikisi de olacak, ayrılmaz biçimde iç içe geçmiş. Renkler hâlâ bize bir şey söylüyor. Ama artık söylediklerinin içine *"iyileş"* kelimesini de, *"ait ol"* kelimesini de sakladılar; öyle ustaca ki, kendi arzumuzu mu duyduğumuzu, yoksa bize söyletilen arzuyu mu tekrarladığımızı artık ayırt edemiyoruz. Belki de lüksün gerçek ürünü hiçbir zaman renk olmadı. Belki her zaman bu belirsizlikti, ve biz onu, her seferinde, seve seve satın aldık.
 
-> *"Renk kendinde bir anlam taşımıyor belki; taşıyıcı olmayı, tekrar edilerek, tutarlı kalınarak kazanıyor."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
