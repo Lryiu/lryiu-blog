@@ -25,6 +25,4 @@ Dystopik kültür, bize sadece karamsar bir gelecek resmi sunmuyor aslında; ayn
 
 Dystopik hikâyeler bizi geleceğe mi hazırlıyor, yoksa sadece mevcut korkularımızı besleyerek bizi pasif birer izleyici haline mi getiriyor? Belki de sorunun kendisi yanlış kuruluyor; ikisi de aynı anda oluyor olabilir.
 
-> *"Dystopya, sadece nelerin yanlış gidebileceğini değil, aynı zamanda bizim nasıl daha insani ve empatik kalabileceğimizi sorgulatmak için oradadır."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
