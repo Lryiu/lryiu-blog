@@ -11,7 +11,7 @@ readingTime: "4 dk okuma"
 
 Disney+ yapımı *Dünyayla Benim Aramda*, yüzeyde bir aşk üçgeni anlatısı gibi görünse de, özünde modern ilişkilerdeki güç dengelerini, iletişimsizlik biçimlerini ve bireysel kimlik arayışını konu edinen çok katmanlı bir metin olarak okunabilir. Dizi, aşk ilişkisini bir duygusal tema olarak değil, benlik inşasının sahnesi olarak konumlandırır. Bu bağlamda yapım, romantik türün sınırlarını aşarak, bir *"kendilik psikolojisi"* çalışmasına yaklaşır.
 
-> **"Bir yerin sessizliğini duyabilmek için, önce o yerin gürültüsünü tanımış olmak gerekiyor."**
+> *"Bir yerin sessizliğini duyabilmek için, önce o yerin gürültüsünü tanımış olmak gerekiyor."*
 
 İlkin karakteri (Demet Özdemir), anlatının merkezinde yer alan en karmaşık figürdür. Profesyonel yaşamda son derece güçlü, kararlı ve otoriter bir kadın olarak çizilen İlkin, ilişki alanına geldiğinde bu gücün sınırlarıyla yüzleşir. Partneri Tolga’ya (Buğra Gülsoy) ulaşamamanın yarattığı duygusal kopukluk, karakterin psikolojik çözülme sürecini başlatır. Buradaki kırılma noktası kıskançlıktan değil, iletişimin kesintiye uğradığı bir ilişkide *"erişememe"* deneyiminden doğar. Tolga, bedenen oradadır ancak duygusal olarak yoktur; bu durum İlkin’i görünmez bir duvara çarpmışçasına çaresiz bırakır. İletişimsizlik, İlkin’in profesyonel hakimiyet alanını da gölgeler ve kontrol duygusunun yerini belirsizlik alır.
 
