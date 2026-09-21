@@ -47,7 +47,7 @@ Adore, izleyicisini rahatsız etmeye niyetli bir film değil; aksine, rahatsızl
 
 Fontaine, ne ilişkileri romantize ediyor ne de yargılıyor. Film bittikten sonra seyircinin içinde kalan his bir huzursuzluk değil, bir yankı, yaz güneşinin batarken bıraktığı o turuncu iz gibi.
 
-Ahlakın sabit tanımlarına karşılık duyguların akışkanlığına odaklanan Adore, *"yasak"*ı anlatmıyor aslında; yalnızca saklanmayan insanlık hallerini gösteriyor.
+Ahlakın sabit tanımlarına karşılık duyguların akışkanlığına odaklanan Adore, yasak olanı anlatmıyor aslında; yalnızca saklanmayan insanlık hallerini gösteriyor.
 
 Ve belki de bu yüzden, şaşkınlıkla başlayan izleme deneyimi farkında olmadan bir hayranlığa dönüşüyor.
 
