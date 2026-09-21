@@ -37,6 +37,6 @@ Rehber acı bir tebessümle yanıtladı: "Gerçek Tanrı'ya itaat etmeyi reddede
 
 Şehir sakinleri yataklarında dönüp dururken, pencerelerindeki aynalar çatladı, tarladaki toprak kurudu ve cüzdanlardaki altınlar karardı. Ama yukarıda, yıldızların ötesinde, gerçek olan Taht yerinde duruyordu; sabırla, kendisine dönülecek günü bekleyerek.
 
-> *"İnsan kalbi öyle bir fabrikadır ki, eğer ona gerçek Olanı vermezsen, durmaksızın sahte ilahlar üretir."*
+> *"İnsan kalbi öyle bir fabrikadır ki, eğer ona gerçek olanı vermezsen, durmaksızın sahte ilahlar üretir."*
 
 ~ S. Gamze Güçkıran Chartrand Cossette
