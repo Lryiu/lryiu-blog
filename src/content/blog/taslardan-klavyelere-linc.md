@@ -29,7 +29,7 @@ Görünürde linç, *"suçlu birini cezalandırmak ve adaleti sağlamak"* amacı
 
 Üçüncüsü de ahlaki üstünlük taslamak. Saldıran taraf, kurbanı *"kötü"* ilan ederek otomatik olarak kendini *"iyi ve temiz"* pozisyonuna yerleştirir. Kendi günahlarını, eksiklerini kurbanın üzerine yıkarak rahatlar.
 
-## Görünmez Sınırlar ve Modern Dünyada Linç Çeşitleri
+## Modern Dünyada Linç Çeşitleri
 
 Sadece fiziksel şiddeti ya da dijital hakaretleri konuşursak resmi eksik bırakırız. Linç, gücün asimetrik kullanıldığı her yerde biçim değiştirerek karşımıza çıkar.
 
