@@ -7,7 +7,7 @@ tags: ["sosyal medya", "eşitsizlik", "gözetim", "içerik üretimi"]
 readingTime: "2 dk okuma"
 ---
 
-![](/images/acikbufe.jpg)
+![](/images/acikbufe.webp)
 
 Yeni nesil sosyologlarımızın laboratuvarı artık üniversite amfileri değil, AVM yürüyen merdivenleri. Veri toplama araçları ise anket kâğıtları değil, megapiksel yüksek akıllı telefonlar. Bu disipline *Kırpılmış Gerçeklik Sosyolojisi* diyoruz.
 
