@@ -4,7 +4,7 @@ category: "Kitap"
 date: 2026-08-22
 excerpt: "Yarım Bıraktığım Kitaplar Hakkında Bir Savunma"
 tags: ["Okuma", "Alışkanlıklar"]
-readingTime: "2 dk okuma"
+readingTime: "3 dk okuma"
 ---
 
 ![](/images/ihtimallerkutuphanesi.jpg)
@@ -15,13 +15,13 @@ Olmuştur illa ki size de…
 
 Ama her kitap öyle mi ya? Bazıları kavrar sizi yüreğinizden sımsıkı, vedalaşmak dahi istemezsiniz. Bittikten sonra rafa geri koymak bile o kitabı, bir dosta yapılan ihanet gibi gelir. Geride bırakmışlık hissi bir çeşit. İşim bitti seninle der gibi… Ne ruhsuz! Oysa, o çoktan ailenizin bir parçası oluvermiştir. Dost sohbetlerinde sıkça bahsi edilir… Tavsiye, o coşkuyu paylaşmaktır, büyütmektir… Aynı mekanda toplamak gibidir tüm dostları bir kitaba davet…
 
-Bu seferki ile öyle olmadı ne yazık ki… Buluşamadık aynı sayfalarda. Döndü durdu elimde… Alıp kenara koymak bana bir çeşit entelektüel başarısızlık hissi vereceği için de günlerce sürükledim durdum kendimi de, kitabı da… Alışamadık birbirimize. “Belki” dediğim çok an oldu… “Belki de yeni başlıyoruz…” Zihnime kelepçelenen bu umut, engele dönüşmeye başladı iyiden iyiye. Başlayamadım da  başka bir kitaba, hepten arada kaldım…
+Bu seferki ile öyle olmadı ne yazık ki… Buluşamadık aynı sayfalarda. Döndü durdu elimde… Alıp kenara koymak bana bir çeşit entelektüel başarısızlık hissi vereceği için de günlerce sürükledim durdum kendimi de, kitabı da… Alışamadık birbirimize. *"Belki"* dediğim çok an oldu… *"Belki de yeni başlıyoruz…"* Zihnime kelepçelenen bu umut, engele dönüşmeye başladı iyiden iyiye. Başlayamadım da  başka bir kitaba, hepten arada kaldım…
 
 Oysa kitap, mutlaka sonuna kadar katlanılması gereken bir sınav olmamalıydı. Bir noktada metnin size söyleyeceklerinin tükenmesi, frekansın kopması ya da o anki zihinsel eşiğinizin başka bir yere kayması gayet de kabul edilebilir insani bir hissiyattı. 
 
 Sizi okuma eyleminden soğutan, başka bir kitaba başlamanıza mani olan, kitaba da zamanınıza da haksızlık eden bu yapay zorunluluk neyin peşindeydi? Bu yarıda bırakmanın yenilgi olabileceği hissi, kime aitti ki?
 
-Başlanan bir şeyin bitirilmesi fikri, modern insanın "disiplinli, kontrolü elinde tutan, verimli birey" ilüzyonunun sinsi dayatmalarından biriydi aslında. Tamamlanamayan her sayfa, bilinçaltında kapatılamayan bir dosyaydı ve bu da verimlilik dinine karşı işlenen en büyük günahlardan biriydi…
+Başlanan bir şeyin bitirilmesi fikri, modern insanın *"disiplinli, kontrolü elinde tutan, verimli birey"* ilüzyonunun sinsi dayatmalarından biriydi aslında. Tamamlanamayan her sayfa, bilinçaltında kapatılamayan bir dosyaydı ve bu da verimlilik dinine karşı işlenen en büyük günahlardan biriydi…
 
 Açıkça unutmuştuk işte kitabın bir keşif alanı olduğunu. O artık fethedilmesi gereken bir araziydi ve nihayetlenmeliydi…
 
