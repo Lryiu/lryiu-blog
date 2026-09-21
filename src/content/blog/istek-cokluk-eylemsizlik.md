@@ -27,6 +27,4 @@ Yapılmak istenen işlerin çokluğunun eylemsizliğe dönüşmesi süreci, bire
 
 Çok şey yapmak isteyip de bir türlü yapamama ve başlayamama durumu, bireysel bir karakter kusuru ya da basit bir tembellik değil. İrade, yalnızca isteme yetisi değil; mantıksal önceliklendirme, kaygıyı tolere edebilme ve belirsizlik altında karar alabilme kapasitesidir. Antik Yunan'ın akrasia kavramı eylemsizliğin iradi boyutunu, varoluşçuluğun sınırsız seçeneğin yarattığı kaygı boyutunu, Ortaçağ'ın acedia kavramı ruhsal-zihinsel bıkkınlık boyutunu, modern sosyoloji ise performans toplumunun yarattığı öz-sömürü boyutunu ortaya koyuyor. Görev felci ve başlayamama problemi, arzunun azlığından değil, imkânların aşırılığının bilişsel ve duygusal sistemde yarattığı kilitlenmeden kaynaklanıyor. Bu durumun aşılması da belki bireyin mükemmel eylem fikrinden vazgeçerek sınırlılığı kabullenmesini, hedefleri tekil ve somut adımlara indirgemesini ve *"yapabilmenin"* sınırsız pozitif baskısından sıyrılarak bilinçli sınırlamalara gitmesini gerektiriyor.
 
-> *"İrade, yalnızca isteme yetisi değil; mantıksal önceliklendirme, kaygıyı tolere edebilme ve belirsizlik altında karar alabilme kapasitesidir."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
