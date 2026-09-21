@@ -31,6 +31,4 @@ Sir Edward Burne-Jones, 19. yüzyıl Viktorya döneminde *Uyuyan Güzel* masalı
 
 Simgeler tarihsel süreçte biçimsel ve anlamsal metamorfoza uğrasa da, masalların kolektif bilinçdışından beslenen görsel dili, insan varoluşunun en derin kaygılarını, arzularını ve dönüşüm imkânlarını yansıtmaya devam ediyor. Belki de bu yüzden bir elma, bir ayna, bir orman hâlâ bize bu kadar tanıdık geliyor; her okuduğumuzda, her baktığımızda, aslında kendi Gölge'mize bakıyoruz.
 
-> *"Simgeler tarihsel süreçte biçimsel ve anlamsal metamorfoza uğrasa da, masalların kolektif bilinçdışından beslenen görsel dili, insan varoluşunun en derin kaygılarını, arzularını ve dönüşüm imkânlarını yansıtmaya devam ediyor."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
