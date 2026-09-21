@@ -29,6 +29,4 @@ Burada kolay bir iyimserlik sunmak yanlış olur. *"Menüyü reddet, kendi yolun
 
 Anlam, muhtemelen menüde bulunmuyor. Menüden sonra, seçilen şeyle baş başa kaldığın o sıkıcı, uzun, kimsenin izlemediği zamanda oluşuyor.
 
-> *"Anlam, muhtemelen menüde bulunmuyor. Menüden sonra, seçilen şeyle baş başa kaldığın o sıkıcı, uzun, kimsenin izlemediği zamanda oluşuyor."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
