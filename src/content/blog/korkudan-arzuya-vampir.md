@@ -41,7 +41,7 @@ Klasik vampir bir konttu; mülk sahibiydi. Modern vampir ise potansiyel: sürekl
 
 ## Korkunun Dili Değişirken
 
-Belki de asıl mesele şu: vampir değişmedi, bizim korku dilimiz değişti.
+Belki de vampir değişmedi, bizim korku dilimiz değişti.
 
 Eskiden korku dışarıdan gelen bir şeydi: salgın, yabancı, ölüm. Şimdi ise daha rafine: yetersiz kalmak, yaşlanmak, sıradan olmak, geride kalmak. Ve biz bu korkularla savaşmıyoruz artık; onları yeniden tasarlıyoruz. Vampir de bunun en net örneği. Bir zamanlar karanlıkta saklanan şey, şimdi spot ışığının altında parlıyor. Eskiden vampirden kaçıyorduk; şimdi onun gibi görünmenin yollarını arıyoruz.
 
