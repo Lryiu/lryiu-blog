@@ -43,7 +43,7 @@ Sadece fiziksel şiddeti ya da dijital hakaretleri konuşursak resmi eksik bıra
 
 **Sosyolojik linç** ise en sessizi. Kimsenin size bağırmadığı ama ortama girdiğinizde muhabbetin kesildiği, kahve içmeye çağrılmadığınız, varlığınızın yok sayıldığı o sessiz tür. İnsan sosyal bir canlıdır ve topluluk tarafından *"görünmez"* kılınmak, ruh için en ağır cezalardan biri değil midir?
 
-## Peki Linçin Panzehri Nedir?
+## Peki Lincin Panzehri Nedir?
 
 Linç eyleminin gerçekleşmesi için üç unsur şarttır: ezici bir güç, savunma hakkının yok sayılması ve yok etme arzusu.
 
