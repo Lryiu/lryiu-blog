@@ -35,8 +35,6 @@ Bu noktada sıkça şu itiraz yükselir: *"Ama zengin ve güçlü olup da ahlakl
 
 Evet, varlar. Ancak mesele birey değil, olasılık dağılımıdır. Sistem, Marcus Aurelius'u değil, Epstein'ı üretmeye çok daha yatkındır. Roma İmparatoru Aurelius, mutlak güce rağmen etik pusulasını koruyabilmiş nadir bir örnektir; ancak bu durum, onu herkes için tekrarlanabilir bir modele dönüştürmez. Onun temsil ettiği şey, ağır bir iç disiplin ve sürekli özdenetim gerektiren, çoğu insanın sürdüremeyeceği istisnai bir etik pratiktir. Ve unutulmamalıdır: istisnalar, sistemleri aklamaz.
 
-## Sonuç: Sınırların Kaybı
-
 Özgürlüğü çoğu zaman sınırların yokluğu olarak tanımlarız. Oysa mutlak konfor ve dokunulmazlığın gösterdiği şey nettir: insan, sınırları kalktığında özgürleşmez; yalnızca yönünü kaybeder. Zirveye ulaştığında aşağıya bakmayı reddedenler, eninde sonunda kendi içlerindeki o karanlık boşluğa düşerler.
 
 Çünkü insan ruhu, dirençle karşılaşmadığı bir boşlukta şekil alamaz; sadece dağılır.
