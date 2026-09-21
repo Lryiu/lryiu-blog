@@ -21,6 +21,6 @@ Bugünse, çatal kullanmayan birini *"kaba"* buluyor, hatta bu aleti kullanmamay
 
 Şeytanın asası, kahvaltıda zeytin yakaladığımız sıradan bir araca dönüşürken; dün ilahi düzene bir saldırı olarak görülenin, bugün nasıl da *"insan olmanın"* ve hatta *"kibar olmanın"* şartına evrildiğini bize her öğün hatırlatıyor.
 
-> **"Dün ilahi düzene bir saldırı olarak görülen, bugün medeniyetin en sessiz adabıdır."**
+> *"Dün ilahi düzene bir saldırı olarak görülen, bugün medeniyetin en sessiz adabıdır."*
 
 ~ S. Gamze Güçkıran Chartrand Cossette
