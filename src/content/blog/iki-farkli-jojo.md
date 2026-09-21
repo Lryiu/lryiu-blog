@@ -1,6 +1,6 @@
 ---
 title: "İki Farklı JoJo, Tek Büyük Soru"
-category: "Kültür"
+category: "Deneme"
 date: 2026-04-27
 excerpt: "Biri anime dünyasının kader çıkmazı, diğeri felsefe kürsüsünden bir etik deneyi. İki ayrı JoJo hikâyesi, internette aynı isim tesadüfüyle çarpışıp aynı soruyu fısıldıyor: bizi biz yapan şey içine doğduğumuz şartlar mı, yoksa içimizden gelen o doğruyu yapma dürtüsü mü?"
 tags: ["felsefe", "anime", "özgür irade", "etik", "JoJo"]
