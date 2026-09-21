@@ -21,7 +21,7 @@ Fakat bu aydınlanmanın beklenmedik bir gölgesi oldu.
 
 İnsan, bu çağrıları bile bir tür ilahi sigorta poliçesine çevirmeyi başardı. Günah işlenir, prim sonradan ödenir; yanlış yapılır, ardından tövbeyle temize havale edilir. Sanki her günah, vadesi ertelenmiş bir kredi gibidir. Öteki dünya aydınlandıkça, karanlık yeraltından çekilip insanın içine yerleşti. Artık karanlık, Sümerlerin anlattığı gibi dışarıdaki bir diyarda değil; niyetin en gizli kıvrımında, duanın en samimiyetsiz dipnotunda dolaşır.
 
-> **"Eğer ahlâk, ödülsüz ve cezasız mümkün değilse... biz gerçekten ahlâklı mıyız, yoksa sadece iyi birer yatırımcı mı?"**
+> *"Eğer ahlâk, ödülsüz ve cezasız mümkün değilse... biz gerçekten ahlâklı mıyız, yoksa sadece iyi birer yatırımcı mı?"*
 
 İnsanlık Sümerlerin o tozlu yeraltı dünyasından kaçmaya çalışırken, çok daha karmaşık bir hapishaneye girdi: kendi vicdanının pazarlık masasına. Samimiyet, her an bir getiri hesabına kurban edilebilecek kırılgan bir süse dönüştü. Ve belki de en rahatsız edici soru hâlâ orada duruyordur: Eğer yaptıklarımızın arkasında ilahi bir garanti olmasaydı, o iyiliklerin kaçı hayatta kalırdı?
 
