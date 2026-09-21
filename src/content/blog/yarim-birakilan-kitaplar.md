@@ -2,7 +2,7 @@
 title: "İhtimaller Kütüphanesi"
 category: "Kitap"
 date: 2026-08-22
-excerpt: "Yarım Bıraktığım Kitaplar Hakkında Bir Savunma"
+excerpt: "Yarım bırakılan bir kitabın verdiği suçluluk, aslında 'her başlanan bitirilmeli' diyen verimlilik dininin sinsi bir dayatması. Bitmeyen kitaplar ve ihtimaller kütüphanesi üzerine bir savunma."
 tags: ["Okuma", "Alışkanlıklar"]
 readingTime: "3 dk okuma"
 ---
