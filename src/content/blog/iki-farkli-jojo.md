@@ -17,6 +17,4 @@ Gelelim TED-Ed videosuna ilham veren ve anime dünyasıyla adı yüzünden tatl�
 
 İster zamanı büken anime karakterleri olalım, ister sarayda büyüyen o talihsiz çocuk... Günün sonunda iki deney de bizi aynı varoluşsal aynanın karşısına oturtuyor. Bizi biz yapan şey içine doğduğumuz şartlar mı, yoksa her şeye rağmen içimizden gelen o doğruyu yapma dürtüsü mü? Belki de cevap ikisinin arasındaki o dar, huzursuz aralıkta gizli; kader bize bir sayfa veriyor ama o sayfayı hangi el yazısıyla dolduracağımıza dair son sözü hâlâ biz söylüyoruz, ya da söylediğimizi sanıyoruz.
 
-> *"Kader bize bir sayfa veriyor ama o sayfayı hangi el yazısıyla dolduracağımıza dair son sözü hâlâ biz söylüyoruz, ya da söylediğimizi sanıyoruz."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
