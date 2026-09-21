@@ -7,7 +7,7 @@ tags: ["Öykü", "Özgürlük"]
 readingTime: "3 dk okuma"
 ---
 
-Karanlık, odaya çökmüş bir küf kokusu gibi ağırdı; yine de tam ortasında oturan çocuğun en çok duyduğu şey, kendi nefesinin ipince tıslamasıydı. Gözleri bağlıydı ama gölgelerin şekil değiştirerek ona yaklaştığını hissediyordu — sanki her karanlık, bir öncekinin bıraktığı boşluğu doldurmaya gelmişti.
+Karanlık, odaya çökmüş bir küf kokusu gibi ağırdı; yine de tam ortasında oturan çocuğun en çok duyduğu şey, kendi nefesinin ürkek tıslamasıydı. Gözleri bağlıydı ama gölgelerin şekil değiştirerek ona yaklaştığını hissediyordu. Sanki her karanlık, bir öncekinin bıraktığı boşluğu doldurmaya gelmişti.
 
 Başının üzerindeki ince ipler, görünmeyen bir el tarafından zaman zaman hafifçe çekiliyordu. O hafiflikle bile omuzları ürperiyor; bedenini değil, düşüncelerini yöneten bir güç varmış gibi titriyordu. Çocuk, kendi iradesinin odanın bir köşesine unutulmuş bir eşya olduğunu fark edecek kadar uzun süredir böyleydi.
 
@@ -15,11 +15,11 @@ Solunda, devrilecek gibi eğilen bir kitap yığını duruyordu. Tozun altında 
 
 Sağında ise bir ayna… çatlamış, sisli, bir zamanlar yansıtmak için yaratıldığı şeyi artık saklar hâlde. Aynanın içinde kendine benzer bir gölge oturuyordu; dizlerini karnına çekmiş, başını eğmiş, nefesini bile belli belirsiz veriyordu. Çocuk, görmek için gözlerini açabilseydi, belki o gölgenin aslında kendi geleceği olduğunu fark edecekti.
 
-Bir an, başının üzerindeki iplerden biri hafifçe gevşedi. Bu, kimsenin fark etmeyeceği kadar küçük ama çocuğun varoluşunda bir kıpırdanma yaratacak kadar büyük bir andı. Parmakları, bilmediği bir cesaretle hareket etmeye çalıştı; sanki bedenine ilk kez soru soruyordu: "Gerçekten burada olmak zorunda mıyım?"
+Bir an, başının üzerindeki iplerden biri hafifçe gevşedi. Bu, kimsenin fark etmeyeceği kadar küçük ama çocuğun varoluşunda bir kıpırdanma yaratacak kadar büyük bir andı. Parmakları, bilmediği bir cesaretle hareket etmeye çalıştı; sanki bedenine ilk kez soru soruyordu: *"Gerçekten burada olmak zorunda mıyım?"*
 
-Aynanın içindeki gölge de aynı anda başını kaldırdı. Çatlakların arasından süzülen ışık, gölgenin yüzünü tam göstermese de, o baş kaldırışın anlamı açıktı: "Ben sen değilim; sen, beni seçmek zorunda değilsin."
+Aynanın içindeki gölge de aynı anda başını kaldırdı. Çatlakların arasından süzülen ışık, gölgenin yüzünü tam göstermese de, o baş kaldırışın anlamı açıktı: *"Ben sen değilim; sen, beni seçmek zorunda değilsin."*
 
-Tavana uzanan ipler, bu itirazı duymuş gibi bir an gerildi. Odanın havası keskinleşti, kuş tüyleri gibi havada süzülen kâğıt kırpıntıları aniden yön değiştirdi. Çocuk, göz bandının altından çok hafif bir sıcaklık hissetti — gözyaşı değildi bu, bir hatırlayıştı.
+Tavana uzanan ipler, bu itirazı duymuş gibi bir an gerildi. Odanın havası keskinleşti, kuş tüyleri gibi havada süzülen kâğıt kırpıntıları aniden yön değiştirdi. Çocuk, göz bandının altından çok hafif bir sıcaklık hissetti. Gözyaşı değildi bu, bir hatırlayıştı.
 
 Sonunda çocuk parmaklarını sandalyenin kenarından çözüp dizlerinin üzerine koydu. Bu, kimsenin alkışlamayacağı ama bir ömrü değiştirecek türden bir hareketti. Çünkü ilk kez bedenini bir başkası değil, kendisi yönetmişti.
 
