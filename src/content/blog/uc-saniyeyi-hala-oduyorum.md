@@ -35,6 +35,4 @@ Bir dahaki sefere içinizde bir şeyin kaynadığını, o üç saniyelik boşlu�
 
 Ben o mesajı hâlâ geri alamıyorum. Ama bir dahakine, belki üç saniye daha bekleyebilirim. Siz bekleyebilir misiniz?
 
-> *"Öfkeyi içinde tutmak, zehir içip karşındakinin ölmesini beklemeye benzer. Zehri içen sizsiniz."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
