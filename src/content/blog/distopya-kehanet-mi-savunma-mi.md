@@ -1,5 +1,5 @@
 ---
-title: "Dystopya Bir Kehanet mi, Yoksa Modern Bir Savunma Mekanizması mı?"
+title: "Dystopya: Kehanet mi, Savunma mı?"
 category: "Deneme"
 date: 2026-07-14
 excerpt: "İzlediğimiz dizilerdeki, okuduğumuz kitaplardaki kaos görüntüleri tesadüf mü, yoksa bilinçaltımızda yaklaşan bir fırtınaya karşı yaptığımız kurgusal provalar mı? Dystopyanın bizi neden bu kadar cezbettiğine dair bir deneme."
