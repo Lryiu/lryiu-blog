@@ -39,9 +39,7 @@ Modern anlatılarda vampir artık lise sıralarında, cam cepheli evlerde, günd
 
 Klasik vampir bir konttu; mülk sahibiydi. Modern vampir ise potansiyel: sürekli genç kalan, sürekli üreten, performansı hiç düşmeyen bir varlık. Bir nevi *"ideal çalışan"*: tükenmeyen bir beden, kesintisiz bir dikkat, kusursuz bir dış görünüş. Vampir burada bir tehdit olmaktan çıkıp bir *"upgrade"*'e dönüşüyor; daha hızlı, daha güçlü, daha çekici bir versiyon. Eskiden vampir olmak bir kayıptı. Şimdiyse bir kazanım gibi kurgulanıyor. Peki ne zaman, kaybetmekle kazanmak yer değiştirdi?
 
-## Korkunun Dili Değişirken
-
-Belki de vampir değişmedi, bizim korku dilimiz değişti.
+Belki de vampir değişmedi de, bizim korku dilimiz değişti.
 
 Eskiden korku dışarıdan gelen bir şeydi: salgın, yabancı, ölüm. Şimdi ise daha rafine: yetersiz kalmak, yaşlanmak, sıradan olmak, geride kalmak. Ve biz bu korkularla savaşmıyoruz artık; onları yeniden tasarlıyoruz. Vampir de bunun en net örneği. Bir zamanlar karanlıkta saklanan şey, şimdi spot ışığının altında parlıyor. Eskiden vampirden kaçıyorduk; şimdi onun gibi görünmenin yollarını arıyoruz.
 
