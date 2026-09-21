@@ -16,7 +16,7 @@ Bu ikisini birbirine karıştıranlara şaşırıyorum doğrusu. Arada sadece bi
 * **Küfür bir duygudur;** havaya savrulur, o anki sıkışmışlığı tahliye eder. Bir nevi ruhun emniyet supabıdır.
 * **Hakaret ise hedefli bir saldırıdır;** birinin varlığına, kişiliğine, onuruna saplanmak üzere bilenmiştir.
 
-En basitinden; hayatın absürtlüğüne edilen bir küfür sizi özgürleştirirken, bir insanı aşağılamak için seçilen kelimeler sizi sadece *"vizyonsuz"* yapar. Unutmayın tatlım; küfür havaya gider, hakaret ise insana saplanır.
+En basitinden; hayatın absürtlüğüne edilen bir küfür sizi özgürleştirirken, bir insanı aşağılamak için seçilen kelimeler sizi sadece *"vizyonsuz"* yapar. Unutulmamalıdır ki; küfür havaya gider, hakaret ise insana saplanır.
 
 Peki, küfür ne zaman o kirli *"hakaret"* çukuruna düşer? İşte o sınır çizgisi çok net: Küfür bir duruma yöneldiğinde temizdir, bir insanı hedef aldığında ise artık o da hakarettir.
 
