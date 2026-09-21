@@ -17,7 +17,7 @@ Kimyanın bu *"günahkar"* ataları, sırlarını ve keşiflerini açıkça yaza
 
 Bilim, henüz *"kimya"* adını almadan önce, karanlık köşelerde ilahi sırları çalmaya çalışan yankesicilerin uğraşıydı. Paracelsus gibi geleneksel tıbbı ve dogmaları sarsan isimler, ömürlerini kaçarak, aforoz edilerek ve *"hadsizlik"*'le suçlanarak geçirdiler. 
 
-> **"Maddeyi büken, kendi ruhunun bükülmesine razı olmalıdır."**
+> *"Maddeyi büken, kendi ruhunun bükülmesine razı olmalıdır."*
 
 Peki, bu derin *"dönüşüm"* korkusu nasıl aşıldı? Cevap, insanın bitmek bilmeyen o pragmatik ihtiyaçlarında gizliydi: Sanayi, boya, tıp ve barut. 
 
