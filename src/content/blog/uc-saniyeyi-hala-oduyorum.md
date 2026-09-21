@@ -1,5 +1,5 @@
 ---
-title: "O Üç Saniyeyi Hâlâ Ödüyorum"
+title: "Üç Saniye"
 category: "Deneme"
 date: 2026-04-02
 excerpt: "Bir mesaj var; gönderilmiş, silinmemiş, geri alınamayan türden. Öfkenin bize verdiği sahte yetki, o kararı vermeden üç saniye önce orada duran başka bir zihin üzerine bir deneme."
@@ -11,7 +11,7 @@ Bir mesaj var. Gönderilmiş, silinmemiş, geri alınamayan türden. Ya da bir c
 
 Çünkü şunu fark ettim: o kararı verdiğim andan üç saniye önce, orada başka biri duruyordu. Aynı bedende, aynı yüzde, ama farklı bir zihinde. Ve o zihin aptal değildi. Kötü de değildi. Sadece heyecanlıydı. Ya da öfkeliydi, ki ikisi çoğu zaman aynı kapıdan girer.
 
-Heyecanın (özellikle öfkenin) bir hüneri var: en saçma kararı bile o an için *"kaçınılmaz"* gibi göstermek. *"Gönder o mesajı."* *"Sok o lafı."* *"Yak köprüyü, zaten hak etmiyordu."* Bunlar emir kipiyle gelir, çünkü o anki duygu size gerçek bir yetki verdiğini sanır. Oysa vermiyor. Sadece ödünç veriyor. Ve siz o ödünç yetkiyle bir şeyi yakıyorsunuz, sonra alev sönünce elinizde kalan sadece kül oluyor; o külü toplayacak olan da yine sizsiniz, üç saniye önceki o heyecanlı versiyonunuz değil.
+Heyecanın (özellikle öfkenin) bir hüneri var: en saçma kararı bile o an için *"kaçınılmaz"* gibi göstermek. *"Gönder o mesajı."* *"Sok o lafı."* *"Yak köprüyü, zaten hak etmiyordu."* Bunlar emir kipiyle gelir, çünkü o anki duygu size gerçek bir yetki verdiğini sanır. Oysa sadece ödünç veriyor, yani geçici bir süreyle. Ve siz o ödünç yetkiyle bir şeyi yakıyorsunuz, sonra alev sönünce elinizde kalan sadece kül oluyor; o külü toplayacak olan da yine sizsiniz, üç saniye önceki o heyecanlı versiyonunuz değil.
 
 Viktor Frankl'ın toplama kamplarından çıkardığı gözlem tam da burada duruyor: olayla tepki arasında ince bir boşluk var, ve kaderimizi belirleyen o boşlukta ne yaptığımız. Stephen Covey bunu sonradan bir sistematiğe döktü, *"proaktiflik"* dedi, kutucuklara böldü. Ama Frankl'ın anlattığı şey aslında hiç sistematik değildi: bir kamp koğuşunda, açlığın ve ölümün ortasında, insanın yine de seçebildiğini fark etmesiydi. Bizim üç saniyemiz onun yanında kahkaha atacak kadar küçük belki. Yine de mekanizma aynı.
 
