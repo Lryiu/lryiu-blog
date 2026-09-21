@@ -1,5 +1,5 @@
 ---
-title: "Sarı Duvarlar: Backrooms'un Bize Söylemek İstediği Şey"
+title: "Backrooms'un Bize Söylemek İstediği Şey"
 category: "Sinema"
 date: 2026-09-12
 excerpt: "Terkedilmiş bir AVM koridorunun tekinsiz boşluğundan doğan bir internet efsanesi, A24'ün elinde geçmişin özlemi, kaçılan sorumluluklar ve insan ruhunda açılan derin boşluklar üzerine bir başyapıta dönüşüyor. Backrooms üzerine bir inceleme."
