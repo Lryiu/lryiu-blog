@@ -7,6 +7,8 @@ tags: ["sosyal medya", "eşitsizlik", "gözetim", "içerik üretimi"]
 readingTime: "2 dk okuma"
 ---
 
+![][/images/adore.jpg](https://substackcdn.com/image/fetch/$s_!5tyK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81b6cf5e-943f-4ff7-b703-e4f238f74e0d_1536x1024.webp)
+
 Yeni nesil sosyologlarımızın laboratuvarı artık üniversite amfileri değil, AVM yürüyen merdivenleri. Veri toplama araçları ise anket kâğıtları değil, megapiksel yüksek akıllı telefonlar. Bu disipline *Kırpılmış Gerçeklik Sosyolojisi* diyoruz.
 
 İlk kural: **Baktığın yer, evrenin merkezidir.**
@@ -23,7 +25,5 @@ Bazı kameralar; *"geçinemiyoruz"* diyen o teyzenin yüzünü odaklayamaz. Çü
 Ama olsun, o on beş saniyelik videolarda hepimiz milyarderizdir. **Kadraja girdiğimiz sürece.**
 
 Çünkü **KADRAJ**, neyi görmememiz gerektiğinin talimatıdır.
-
-> *"KADRAJ, neyi görmememiz gerektiğinin talimatıdır."*
 
 ~ S. Gamze Güçkıran Chartrand Cossette
