@@ -1,5 +1,5 @@
 ---
-title: "Elma, Ayna, Orman: Masalların Resim Sanatında Geçirdiği Metamorfoz"
+title: "Elma, Ayna, Orman: Masalların Metamorfozu"
 category: "Kültür ve Tarih"
 date: 2026-02-18
 excerpt: "Elma, ayna, orman, kurt, anahtar, kule ve iğ; masalların en sıradan nesneleri aslında insanlığın kolektif bilinçdışının kadim şifreleri. Bu simgelerin Ön-Raffaeloculuktan Sürrealizme, çağdaş feminist sanata uzanan yolculuğu üzerine bir deneme."
