@@ -17,6 +17,6 @@ Tarihler 1853'ü gösterdiğinde beklenen o büyük sarsıntı yaşandı. İngil
 
 Bugün en basit bir diş müdahalesinde bile anestezisiz koltuğa oturmazken, aslında bir zamanlar insanlığa *"çekilmesi emredilen"* o kutsal acıyı reddediyoruz. Modern tıp, kader olarak sunulan ızdırabı bir kimyasalla askıya alırken, bize acının bir lütuf değil, çözülmesi gereken teknik bir eşik olduğunu öğretti.
 
-> **"Dün ilahi cezadan kaçış sayılan o derin uyku, bugün insan olmanın en temel haklarından biridir."**
+> *"Dün ilahi cezadan kaçış sayılan o derin uyku, bugün insan olmanın en temel haklarından biridir."*
 
 ~ S. Gamze Güçkıran Chartrand Cossette
