@@ -27,6 +27,4 @@ Toplu ölümler ve küresel salgınlar da toplumun sınıfsal fay hatlarını ne
 
 Geçmişten günümüze ölümün sınıfsal anatomisi üzerine yapılan bu tarihsel ve ampirik incelemeler, insan ömrünün uzunluğunun ve kalitesinin biyolojik bir rastlantı olmadığını; toplumsal mülkiyet ilişkilerinin, devlet politikalarının ve üretim rejimlerinin doğrudan bir bileşeni olduğunu gösteriyor. Ölümün sınıfsal niteliğini azaltmaya yönelik politikalar, yalnızca bireysel sağlık tavsiyeleriyle sınırlı kalamaz. Bu eşitsizliklerin giderilmesi, nitelikli, parasız ve kamusal sağlık sistemlerinin tesis edilmesini, iş sağlığı ve güvenliği önlemlerinin kamusal denetimle bağlayıcı hale getirilmesini, çocuk işçiliğinin tasfiyesini ve gelir dağılımında adaleti sağlayacak yapısal reformları zorunlu kılıyor. Biyolojik varlığın korunması, sonuçta toplumsal üretim ilişkilerinin ve çalışma koşullarının insani bir niteliğe kavuşturulması mücadelesine bağlı.
 
-> *"Ölümün sınıfsal niteliğini azaltmaya yönelik politikalar, yalnızca bireysel sağlık tavsiyeleriyle sınırlı kalamaz."*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
