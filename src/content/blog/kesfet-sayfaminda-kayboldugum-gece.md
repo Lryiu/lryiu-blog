@@ -27,6 +27,4 @@ Sosyal medya, bu arayüzün üzerine sonradan eklenmiş ikinci bir katman. Frans
 
 O gece telefonu masaya bıraktığımda kendime bir soru sordum, hâlâ cevabını tam veremiyorum: ben mi bu ekranı kaydırıyorum, yoksa bu ekran mı beni? Belki ikisi de doğru, belki mesele hangisinin doğru olduğu bile değil. Mesele, arada bir durup sormaya devam edebilmek.
 
-> *"Ben mi bu ekranı kaydırıyorum, yoksa bu ekran mı beni?"*
-
 ~ S. Gamze Güçkıran Chartrand Cossette
