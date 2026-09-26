@@ -1,0 +1,59 @@
+{
+  "redirects": [
+    {
+      "source": "/blog/adore-kiyinin-otesinde",
+      "destination": "https://gamzeguckiran.com/blog/adore-kiyinin-otesinde/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/adore-kiyinin-otesinde/",
+      "destination": "https://gamzeguckiran.com/blog/adore-kiyinin-otesinde/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ed-gein",
+      "destination": "https://gamzeguckiran.com/blog/ed-gein-ilham-mi-lanet-mi/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ed-gein/",
+      "destination": "https://gamzeguckiran.com/blog/ed-gein-ilham-mi-lanet-mi/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ahlak-uzerine",
+      "destination": "https://gamzeguckiran.com/blog/ahlak-din-ve-tutkal-meselesi/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ahlak-uzerine/",
+      "destination": "https://gamzeguckiran.com/blog/ahlak-din-ve-tutkal-meselesi/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acik-bufe-simulasyonu",
+      "destination": "https://lryiu.substack.com/p/ack-bufe-simulasyonu-ya-da-krplms",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acik-bufe-simulasyonu/",
+      "destination": "https://lryiu.substack.com/p/ack-bufe-simulasyonu-ya-da-krplms",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yarim-birakilan-kitaplar",
+      "destination": "https://lryiu.substack.com/p/ihtimaller-kutuphanesi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yarim-birakilan-kitaplar/",
+      "destination": "https://lryiu.substack.com/p/ihtimaller-kutuphanesi",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://gamzeguckiran.com/blog/",
+      "permanent": true
+    }
+  ]
+}
